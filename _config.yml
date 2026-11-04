@@ -1,0 +1,8 @@
+title: Priors Lab
+description: Written companion lessons for the Priors Lab computer science videos.
+theme: minima
+markdown: kramdown
+header_pages: []
+exclude:
+  - README.md
+  - DESCRIPTION_ADDITIONS.md
